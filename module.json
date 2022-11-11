@@ -1,44 +1,21 @@
 {
-  "id": "hellscape-tools",
-  "title": "HellScape Tools",
+  "name": "hellscape-tools",
   "description": "A set of small improvements.",
   "version": "0.0.1",
-  "compatibility": {
-  "minimum": "10",
-  "verified": "10"
-  },
-  "authors": [
-    {
-      "name": "AurelTristen",
-      "url": "https://www.patreon.com/HellScapeAssets",
-      "discord": "AurelTristen#2262"
-    }
+  "author": "AurelTristen",
+  "keywords": [
+    "foundryvtt",
+    "foundry-vtt",
+    "module",
+    "hellscape"
   ],
-  "dependencies": [
-
-  ],
-  "conflicts": [
-    
-  ],
-  "esmodules": [
-    "scripts/module.js"
-  ],
-  "scripts": [
-    "scripts/lib/lib.js"
-  ],
-  "styles": [
-    "styles/module.css"
-  ],
-  "languages": [
-    {
-      "lang": "en",
-      "name": "English",
-      "path": "languages/en.json"
-    }
-  ],
-  "url": "URL to host site",
+  "url": "https://github.com/AurelTristen/HellScape-Tools",
   "manifest": "https://github.com/AurelTristen/HellScape-Tools/blob/main/module.json",
   "download": "",
-  "license": "LICENSE",
-  "readme": "README.md"
+  "readme": "https://github.com/AurelTristen/HellScape-Tools/blob/main/README.md",
+  "bugs": "https://github.com/AurelTristen/HellScape-Tools/issues",
+  "scripts": {
+    "lib": "scripts/lib/lib.js",
+    "module": "scripts/module.js"
+  }
 }
