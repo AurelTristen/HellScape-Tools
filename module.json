@@ -11,8 +11,8 @@
     "hellscape"
   ],
   "url": "https://github.com/AurelTristen/HellScape-Tools",
-  "manifest": "https://github.com/AurelTristen/HellScape-Tools/releases/download/0.0.2/module.json",
-  "download": "https://github.com/AurelTristen/HellScape-Tools/releases/download/0.0.2/hellscape-tools.zip",
+  "manifest": "https://github.com/AurelTristen/HellScape-Tools/releases/download/0.0.3/module.json",
+  "download": "https://github.com/AurelTristen/HellScape-Tools/releases/download/0.0.3/hellscape-tools.zip",
   "readme": "https://github.com/AurelTristen/HellScape-Tools/blob/main/README.md",
   "bugs": "https://github.com/AurelTristen/HellScape-Tools/issues",
   "scripts": [
