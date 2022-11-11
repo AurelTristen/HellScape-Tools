@@ -15,8 +15,8 @@
   "download": "https://github.com/AurelTristen/HellScape-Tools/releases/download/0.0.2/hellscape-tools.zip",
   "readme": "https://github.com/AurelTristen/HellScape-Tools/blob/main/README.md",
   "bugs": "https://github.com/AurelTristen/HellScape-Tools/issues",
-  "scripts": {
-    "lib": "scripts/lib/lib.js",
-    "module": "scripts/module.js"
-  }
+  "scripts": [
+    "scripts/lib/lib.js",
+    "scripts/module.js"
+  ]
 }
