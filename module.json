@@ -1,0 +1,21 @@
+{
+  "name": "hellscape-tools",
+  "description": "A set of small improvements.",
+  "version": "0.0.1",
+  "author": "AurelTristen",
+  "keywords": [
+    "foundryvtt",
+    "foundry-vtt",
+    "module",
+    "hellscape"
+  ],
+  "url": "https://github.com/AurelTristen/HellScape-Tools",
+  "manifest": "https://github.com/AurelTristen/HellScape-Tools/blob/main/module.json",
+  "download": "",
+  "readme": "https://github.com/AurelTristen/HellScape-Tools/blob/main/README.md",
+  "bugs": "https://github.com/AurelTristen/HellScape-Tools/issues",
+  "scripts": {
+    "lib": "scripts/lib/lib.js",
+    "module": "scripts/module.js"
+  }
+}
