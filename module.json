@@ -1,5 +1,5 @@
 {
-  "name": "HellScape Tools",
+  "id": "hellscape-tools",
   "title": "HellScape Tools",
   "description": "A set of small improvements.",
   "version": "0.0.1",
@@ -37,8 +37,8 @@
     }
   ],
   "url": "URL to host site",
-  "manifest": "manifest link to download",
-  "download": "direct download zip",
+  "manifest": "https://github.com/AurelTristen/HellScape-Tools/blob/main/module.json",
+  "download": "",
   "license": "LICENSE",
   "readme": "README.md"
 }
