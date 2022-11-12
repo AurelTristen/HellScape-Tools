@@ -2,7 +2,7 @@
   "name": "hellscape-tools",
   "title": "HellScape Tools",
   "description": "A set of small improvements.",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "author": "AurelTristen",
   "keywords": [
     "foundryvtt",
@@ -11,8 +11,8 @@
     "hellscape"
   ],
   "url": "https://github.com/AurelTristen/HellScape-Tools",
-  "manifest": "https://github.com/AurelTristen/HellScape-Tools/releases/download/0.0.3/module.json",
-  "download": "https://github.com/AurelTristen/HellScape-Tools/releases/download/0.0.3/hellscape-tools.zip",
+  "manifest": "https://github.com/AurelTristen/HellScape-Tools/releases/latest/download/module.json",
+  "download": "https://github.com/AurelTristen/HellScape-Tools/releases/latest/download/hellscape-tools.zip",
   "readme": "https://github.com/AurelTristen/HellScape-Tools/blob/main/README.md",
   "bugs": "https://github.com/AurelTristen/HellScape-Tools/issues",
   "scripts": [
